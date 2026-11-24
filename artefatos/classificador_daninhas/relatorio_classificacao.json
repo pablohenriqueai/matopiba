@@ -1,0 +1,39 @@
+{
+  "broadleaf": {
+    "precision": 0.9887640449438202,
+    "recall": 0.9832402234636871,
+    "f1-score": 0.9859943977591037,
+    "support": 179.0
+  },
+  "grass": {
+    "precision": 0.9906191369606003,
+    "recall": 1.0,
+    "f1-score": 0.9952874646559849,
+    "support": 528.0
+  },
+  "soil": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 487.0
+  },
+  "soybean": {
+    "precision": 0.99909338168631,
+    "recall": 0.995483288166215,
+    "f1-score": 0.9972850678733032,
+    "support": 1107.0
+  },
+  "accuracy": 0.9965232507605389,
+  "macro avg": {
+    "precision": 0.9946191408976827,
+    "recall": 0.9946808779074755,
+    "f1-score": 0.994641732572098,
+    "support": 2301.0
+  },
+  "weighted avg": {
+    "precision": 0.9965371759612716,
+    "recall": 0.9965232507605389,
+    "f1-score": 0.9965229676979515,
+    "support": 2301.0
+  }
+}

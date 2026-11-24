@@ -1,0 +1,23 @@
+{
+  "modelo": "detector_insetos_yolo26n",
+  "map50_95": 0.48106724405869605,
+  "map50": 0.803409797974803,
+  "map75": 0.5129710160014694,
+  "precision": 0.790160803927607,
+  "recall": 0.7709154551350563,
+  "classes": [
+    "Anticarsia_gemmatalis",
+    "Coccinellidae",
+    "Diabrotica_speciosa",
+    "Edessa_meditabunda",
+    "Euschistus_heros_adulto",
+    "Euschistus_heros_ninfa",
+    "Gastropoda",
+    "Lagria_villosa",
+    "Nezara_viridula_adulto",
+    "Nezara_viridula_ninfa",
+    "Rhammatocerus_schistocercoides",
+    "Spodoptera_albula"
+  ],
+  "imagens_teste": 270
+}

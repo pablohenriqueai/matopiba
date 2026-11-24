@@ -1,0 +1,15 @@
+node_modules/
+.next/
+backend/.venv/
+__pycache__/
+*.py[cod]
+.env*
+!*.env.example
+*.sqlite3
+.DS_Store
+dados/uploads/*
+!dados/uploads/.gitkeep
+dados/resultados/*
+!dados/resultados/.gitkeep
+dados/historico/*
+!dados/historico/.gitkeep

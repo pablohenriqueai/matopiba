@@ -1,0 +1,9 @@
+{
+  "modelo": "classificador_folhas_resnet18",
+  "accuracy": 0.9376299376299376,
+  "macro_f1": 0.9300622473764326,
+  "weighted_f1": 0.938082219709466,
+  "melhor_macro_f1_validacao": 0.9309677494476531,
+  "epocas_executadas": 10,
+  "origem_pesos": "ImageNet"
+}

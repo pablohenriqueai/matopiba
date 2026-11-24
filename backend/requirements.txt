@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20
+Pillow>=11.0
+numpy>=2.0
+# Instale torch/torchvision separadamente para preservar a variante CPU/CUDA escolhida.
+ultralytics>=8.3
+opencv-python-headless>=4.10

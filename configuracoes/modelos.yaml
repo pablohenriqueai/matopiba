@@ -1,0 +1,23 @@
+modelos:
+  folhas:
+    tipo: resnet18
+    caminho: artefatos/classificador_folhas
+    arquivo: null
+    classes: [saudavel, lagarta, vaquinha]
+    tamanho_imagem: 224
+    media: [0.485, 0.456, 0.406]
+    desvio: [0.229, 0.224, 0.225]
+  insetos:
+    tipo: yolo
+    caminho: artefatos/detector_insetos
+    arquivo: null
+    confianca: 0.25
+    iou: 0.45
+  daninhas:
+    tipo: resnet18
+    caminho: artefatos/classificador_daninhas
+    arquivo: null
+    classes: [broadleaf, grass, soil, soybean]
+    tamanho_imagem: 224
+    media: [0.485, 0.456, 0.406]
+    desvio: [0.229, 0.224, 0.225]

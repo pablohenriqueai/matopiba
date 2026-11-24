@@ -1,0 +1,9 @@
+{
+  "modelo": "classificador_recortes_daninhas_resnet18",
+  "accuracy": 0.9965232507605389,
+  "macro_f1": 0.994641732572098,
+  "weighted_f1": 0.9965229676979515,
+  "melhor_macro_f1_validacao": 0.9974260696085606,
+  "epocas_executadas": 10,
+  "origem_pesos": "ImageNet"
+}
